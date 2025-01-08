@@ -24,9 +24,9 @@ def get_conversion_rate():
 
 # Function to send an email notification with new books
 def send_email(new_books):
-    sender_email = "sholanki.brightchamps@gmail.com"
-    receiver_email = "samemmanuels01@gmail.com"
-    password = "rclu hczc veuf aqrb"
+    sender_email = "your_email@example.com"  # Your email address (e.g., Gmail, Outlook, etc.)
+    receiver_email ="recipient_email@example.com"  # Recipient's email address
+    password ="your_email_password"  # Your email's app password (NOT your login password)
 
     subject = "New Books Added"
 
